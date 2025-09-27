@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://postimg.cc/ft56h6jx>
+  <img src="https://files.oaiusercontent.com/file_00000000fc8461fa84a45c9048c49124/mnt/data/A_digital_vector_logo_design_features_a_hooded_fig.png" alt="SoulsINI Banner" width="800">
 </p>
 
 <h1 align="center">🌌 ARK INI Loader</h1>
