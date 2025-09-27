@@ -1,37 +1,95 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file_00000000fc8461fa84a45c9048c49124/mnt/data/A_digital_vector_logo_design_features_a_hooded_fig.png" alt="SoulsINI Banner" width="800">
-</p>
+# 🌌 Ark INI Loader
 
-<h1 align="center">🌌 ARK INI Loader</h1>
-<p align="center">Easily load, preview, and apply custom INI configurations for ARK: Survival Evolved.</p>
+Ark INI Loader is a goofy Windows application designed to quickly load and replace your **INI** files for the game **ARK: Survival Evolved**.  
+This tool allows you to easily **import, preview, and apply custom INI configurations** to streamline your gameplay settings.
 
 ---
 
 ## ✨ Features
 
-- 🔄 Quickly swap between different `GameUserSettings.ini` and `Game.ini` configs  
-- 🖥️ Simple Windows UI for browsing and applying files  
-- 📂 Auto-backup before applying new INIs  
-- 🛡️ False-positive safe (PyInstaller packaged)  
+- **Load Base Config File**  
+  Select the primary `BaseDeviceProfiles.ini` (formerly known as ConsoleVariables) configuration file.
+
+- **Import INI Files**  
+  Import individual INI files or batch-load multiple INI files from a selected folder.
+
+- **Preview and Apply**  
+  Preview the contents of each imported INI file and apply it to the base config with a single click.
+
+- **Backup Creation**  
+  Creates a backup of your base file before any changes are applied.
+
+- **Custom INI List Management**  
+  Easily clear the INI list or select specific configurations.
 
 ---
 
-## 📸 Screenshots
+## 📥 Installation
 
-<p align="center">
-  <img src="https://your-image-link-here.com/screenshot1.png" alt="Screenshot 1" width="400">
-  <img src="https://your-image-link-here.com/screenshot2.png" alt="Screenshot 2" width="400">
-</p>
+1. Download the latest release from the [Releases](../../releases) page.  
+2. Extract the `.zip` file contents to a directory of your choice.  
+3. Run **`Ark INI Loader.exe`** to start the application.  
+
+> 🔹 Note: This application is built with **Python + PyInstaller**, so **no Python installation is required** to run the executable.
 
 ---
 
-## 🚀 Installation
+## 🚀 Usage
 
-```bash
-# Clone this repo
-git clone https://github.com/GoofyAhhDev/ark-ini-loader.git
-cd ark-ini-loader
+1. **Set Base File Path**  
+   Click **Browse** to select the `BaseDeviceProfiles.ini` file you wish to modify.  
 
-# Run the Python script
-python ArkINILoader.py
+2. **Import INI Files**  
+   - *Load Folder:* Import all `.ini` files from a selected folder.  
+   - *Load Single File:* Import a single `.ini` file from anywhere on your system.  
+
+3. **Select and Preview**  
+   Choose an imported INI file from the dropdown to preview its contents.  
+
+4. **Apply Configuration**  
+   Click **Apply** to replace the base file with the selected INI file.  
+
+5. **Clear INI List**  
+   Remove all loaded INI files from the dropdown with the **Clear INI List** button.  
+
+---
+
+## 🖥️ Requirements
+
+- Windows OS  
+
+---
+
+## 🛠️ Troubleshooting
+
+⚠️ **Windows Defender False Positive**  
+This executable may be flagged by **Windows Defender** as a Trojan (false positive) due to the PyInstaller bundling process.  
+
+👉 To fix this:  
+- Add an **exception in Windows Defender**.  
+
+> ✅ No issues have been reported with Avira Prime, Bitdefender Total Security, or Bitdefender GravityZone.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉  
+If you'd like to contribute to the Ark INI Loader project:  
+- Submit a pull request  
+- Or open an issue on GitHub  
+
+Contributions for new features, bug fixes, and documentation improvements are encouraged.  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 👤 Author
+
+**GoofyAhhDev**  
+Made with ❤️ (and a little frustration) to streamline ARK INI management.
