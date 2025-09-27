@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="[![Chat-GPT-Image-Sep-26-2025-10-28-57-PM.png](https://i.postimg.cc/fyhZYsVg/Chat-GPT-Image-Sep-26-2025-10-28-57-PM.png)](https://postimg.cc/ft56h6jx)>
+  <img src="[[![Chat-GPT-Image-Sep-26-2025-10-28-57-PM.png](https://i.postimg.cc/fyhZYsVg/Chat-GPT-Image-Sep-26-2025-10-28-57-PM.png)](https://postimg.cc/ft56h6jx](https://postimg.cc/ft56h6jx))>
 </p>
 
 <h1 align="center">🌌 ARK INI Loader</h1>
