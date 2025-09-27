@@ -1,7 +1,7 @@
 # SoulsINI
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="ARK INI Loader Banner" width="800">
+  <img src="[https://your-image-link-here.com/banner.png" alt="ARK INI Loader Banner" width="800"](https://i.postimg.cc/fyhZYsVg/Chat-GPT-Image-Sep-26-2025-10-28-57-PM.png)>
 </p>
 
 <h1 align="center">🌌 ARK INI Loader</h1>
