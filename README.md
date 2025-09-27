@@ -1,6 +1,6 @@
 # 🌌 Ark INI Loader
 
-Ark INI Loader is a goofy Windows application designed to quickly load and replace your **INI** files for the game **ARK: Survival Evolved**.  
+Ark INI Loader is a Windows application designed to quickly load and replace your **INI** files for the game **ARK: Survival Evolved**.  
 This tool allows you to easily **import, preview, and apply custom INI configurations** to streamline your gameplay settings.
 
 ---
@@ -91,5 +91,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**GoofyAhhDev**  
+**Discord @bandzz4life**  
 Made with ❤️ (and a little frustration) to streamline ARK INI management.
